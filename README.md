@@ -7,6 +7,10 @@ Real-time video chat application leveraging WebRTC and Socket.io for seamless pe
 - **Room-Based Connections**: Implemented Socket.io for room-based user connections.
 - **Dynamic Stream Negotiation**: Created dynamic stream negotiation for seamless communication.
 
+### Prerequisites
+
+- Node.js
+- npm
 
 ## Installation
 
